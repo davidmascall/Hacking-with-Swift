@@ -11,6 +11,8 @@
 		63F37C22249ACB9300D7BA49 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63F37C21249ACB9300D7BA49 /* ViewController.swift */; };
 		63F37C24249ACB9400D7BA49 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63F37C23249ACB9400D7BA49 /* Assets.xcassets */; };
 		63F37C27249ACB9400D7BA49 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63F37C25249ACB9400D7BA49 /* Main.storyboard */; };
+		63F37C30249ACE7100D7BA49 /* SourceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63F37C2F249ACE7100D7BA49 /* SourceViewController.swift */; };
+		63F37C32249ACEB000D7BA49 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63F37C31249ACEB000D7BA49 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +23,8 @@
 		63F37C26249ACB9400D7BA49 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		63F37C28249ACB9400D7BA49 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		63F37C29249ACB9400D7BA49 /* Project_1.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Project_1.entitlements; sourceTree = "<group>"; };
+		63F37C2F249ACE7100D7BA49 /* SourceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourceViewController.swift; sourceTree = "<group>"; };
+		63F37C31249ACEB000D7BA49 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				63F37C21249ACB9300D7BA49 /* ViewController.swift */,
 				63F37C23249ACB9400D7BA49 /* Assets.xcassets */,
 				63F37C25249ACB9400D7BA49 /* Main.storyboard */,
+				63F37C2F249ACE7100D7BA49 /* SourceViewController.swift */,
+				63F37C31249ACEB000D7BA49 /* DetailViewController.swift */,
 				63F37C28249ACB9400D7BA49 /* Info.plist */,
 				63F37C29249ACB9400D7BA49 /* Project_1.entitlements */,
 			);
@@ -135,6 +141,8 @@
 			files = (
 				63F37C22249ACB9300D7BA49 /* ViewController.swift in Sources */,
 				63F37C20249ACB9300D7BA49 /* AppDelegate.swift in Sources */,
+				63F37C30249ACE7100D7BA49 /* SourceViewController.swift in Sources */,
+				63F37C32249ACEB000D7BA49 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
