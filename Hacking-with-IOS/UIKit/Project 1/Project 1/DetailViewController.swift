@@ -26,7 +26,7 @@ class DetailViewController: UIViewController {
     title = "Image \(imageX! + 1) of \(imageY!)"
         
     navigationItem.largeTitleDisplayMode = .never
-        
+
         // Do any additional setup after loading the view.
     }
 
